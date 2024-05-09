@@ -1,0 +1,41 @@
+h1 {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-shadow: 2px 2px rgb(124 , 123 ,159);
+}
+
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+a{
+  border-color: blue;
+  border-style: groove;
+  padding: 4px;
+  border-radius: 100px;
+  color: mediumslateblue;
+}
+.para{
+  color:mediumslateblue;  
+}
+.sub {
+  color: rgb(154, 238, 241);
+  text-shadow: 1.5px 1.5px rgb(123,123,159);
+}
+p {
+  color:white;
+}
+h3 {
+  color:white;
+}
+img{
+  width: 100px;
+  float:right;
+}
+h2 {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-shadow: 2px 2px rgb(124 , 123 ,159);
+}
